@@ -1,0 +1,36 @@
+h2{
+    padding-bottom: 1.5rem;
+}
+
+h5{
+    padding-bottom: 1.5rem;
+}
+.welcome-conteiner{
+    background-image: url('./../img/welcome.jpg');
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-bottom: 7rem;
+    color: white;
+    max-width:2000px;
+    height: 40rem;
+}
+
+.contact-conteiner{
+    background-image: url('./../img/contact.jpg');
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-top: 4rem;
+    padding-bottom: 7rem;
+    color: white;
+}
+
+.social-media{
+    display: inline-block;
+}
+.profile-link{
+    /*fazer animação de cor*/
+}

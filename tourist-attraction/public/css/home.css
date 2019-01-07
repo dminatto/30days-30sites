@@ -1,0 +1,105 @@
+h2{
+    margin: 0.5rem;
+}
+
+h5{
+}
+
+.materialboxed{
+    padding-top: 1.5rem;
+}
+
+.welcome-conteiner{
+    background-image: url('./../img/welcome.jpg');
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-bottom: 7rem;
+    color: white;
+    max-width:2000px;
+    height: 40rem;
+}
+
+.valign-wrapper{
+    padding-top: 3rem;
+    display: block;
+}
+
+button{
+    margin-top: 2rem;
+}
+
+.party-top{
+    background: #ffecb3;
+    padding-top: 100px;
+    clip-path: polygon(100% 100%, 0 0, 0 0, 0px calc(100% - 0px));
+}
+
+.party{
+    background-color: #ffecb3;
+}
+
+.party-botton{ /*faz o esquema do triangulo*/
+    padding-bottom: 100px;
+    background: #ffecb3;
+    clip-path: polygon(0px 0px, 100% 0px, 100% 100%, 0px calc(100% - 100px));
+}
+
+.container{
+    padding-top: 2rem;
+    padding-bottom: 4rem;
+}
+
+.party-conteiner{
+    background-image: url('./../img/party.jpg');
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    padding-bottom: 7rem;
+    opacity: 0.5rem;
+    background-size: cover;
+    color: white;
+    max-width:2000px;
+}
+
+.formulario{
+    display: contents;
+}
+
+textarea{
+    height: 9rem;
+}
+
+.separator{
+    background-color: #ffa000;
+    display: inline-block;
+    margin: 0;
+    width: 5rem;
+    height: 9px;
+    margin-bottom: 4rem;
+}
+
+.details-conteiner{
+    background-image: url('./../img/details.jpg');
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-bottom: 7rem;
+    color: white;
+    max-width:2000px;
+    height: 40rem;
+}
+
+.card-local{
+    background-image: url('./../img/location.jpeg');
+    background-repeat: no-repeat;
+    background-size: contain;
+    height: 28rem;
+    margin-top: 1.5rem;
+}
+
+li{
+    padding-bottom: 1.5rem;
+}
