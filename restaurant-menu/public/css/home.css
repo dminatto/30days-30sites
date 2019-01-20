@@ -1,0 +1,101 @@
+@import url('https://fonts.googleapis.com/css?family=Redressed');
+@import url('https://fonts.googleapis.com/css?family=Ruluko');
+@import url('https://fonts.googleapis.com/css?family=Cairo');
+
+.welcome-conteiner {
+    background-image: url('./../img/capa.jpg');
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-bottom: 7rem;
+    color: white;
+    max-width: 2000px;
+    height: 40rem;
+}
+
+.logo-welcome {
+    width: 14rem;
+}
+
+.title {
+    color: #ffffff;
+    font-family: 'Redressed', cursive;
+    font-size: 6rem;
+    text-shadow: 0px 3px 3px rgba(5, 19, 92, 0.93);
+}
+
+.subtitle {
+    font-size: 2rem;
+    font-family: 'Ruluko', sans-serif;
+    padding-bottom: 1.5rem;
+}
+
+.map-subtitle {
+    font-size: 1.5rem;
+    font-family: 'Ruluko', sans-serif;
+    padding-bottom: 1.5rem;
+}
+
+.text{
+    font-size: 1.5rem;
+    font-family: 'Cairo', sans-serif !important;
+    color: #000000;
+}
+
+.color-invert{
+    color: #ffffff;
+}
+
+.div-conteiner{
+    margin-top: 3rem;
+    padding-top: 2rem;
+    margin-bottom: 4rem;
+}
+
+.speciality-conteiner{
+    background-image: url('./../img/speciality.jpg');
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-bottom: 7rem;
+    color: white;
+    max-width: 2000px;
+    max-height: 38rem;
+}
+
+.separator{
+    background-image: url('./../img/separator_home.png');
+    background-position: center;
+    background-repeat: no-repeat;
+    max-width: 2000px;
+    height:1rem;
+}
+
+.button{
+    padding-top: 2rem;
+}
+
+.location-conteiner{
+    background-image: url('./../img/restaurant.jpg');
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-bottom: 7rem;
+    color: white;
+    max-width: 2000px;
+    max-height: 55rem;
+}
+
+.footer-conteiner{
+    background-color: #000000;
+    color: #ffffff;
+    padding-top: 1.5rem;
+    padding-bottom: 1.5rem;
+}
+
+p{
+    margin-bottom: 0.3rem;
+}
