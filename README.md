@@ -38,7 +38,16 @@ For this challenge I used:
 
 ## Day 05 - Restaurant Menu
 
-> *coming soon*
+The theme of day 5 is build a project to any restaurant menu website. 
+
+For this challenge I used:
+
+* HTML
+* CSS
+* JavaScript
+* UIkit
+* Express.js
+
 
 ## Day 06 
 
